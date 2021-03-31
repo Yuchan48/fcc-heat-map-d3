@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background-color: pink;
+  }
+  
+  
+  
+  #title {
+    font-weight: bold;
+    font-size: 23px;
+    margin: 15px 0 5px 0;
+  }
+  
+  #description {
+    font-size: 18px;
+  }
+  
+  #scaleDes {
+    background-color: pink;
+  }
+  
+  #legend {
+    background-color: pink;
+  }
+  
+  #tooltip {
+    padding: 10px; 
+    background-color: white;
+    margin: 30px;
+    position: absolute;
+    font-weight: bold;
+    border: solid;
+    border-radius: 5px;
+  }
