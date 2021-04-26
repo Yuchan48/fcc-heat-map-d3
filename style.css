@@ -8,17 +8,17 @@ body {
   font-size: 25px;
   margin: 20px 0 5px 0;
 }
-  
-  #description {
-    font-size: 18px;
-  }
-  
-  #tooltip {
-    padding: 10px; 
-    background-color: white;
-    margin: 30px;
-    position: absolute;
-    font-weight: bold;
-    border: solid;
-    border-radius: 5px;
-  }
+
+#description {
+  font-size: 18px;
+}
+
+#tooltip {
+  padding: 10px; 
+  background-color: white;
+  margin: 30px;
+  position: absolute;
+  font-weight: bold;
+  border: solid;
+  border-radius: 5px;
+}
